@@ -1,0 +1,8 @@
+D:\115\9\bin\Debug\9.exe.config
+D:\115\9\bin\Debug\9.exe
+D:\115\9\bin\Debug\9.pdb
+D:\115\9\obj\Debug\9.csproj.AssemblyReference.cache
+D:\115\9\obj\Debug\9.csproj.SuggestedBindingRedirects.cache
+D:\115\9\obj\Debug\9.csproj.CoreCompileInputs.cache
+D:\115\9\obj\Debug\9.exe
+D:\115\9\obj\Debug\9.pdb
